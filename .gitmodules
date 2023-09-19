@@ -1,0 +1,18 @@
+[submodule "git@github.com:AliAkhgari/Artificial-Intelligence-Course.git"]
+	path = git@github.com:AliAkhgari/Artificial-Intelligence-Course.git
+	url = git@github.com:AliAkhgari/AI-Search-Algorithms.git
+[submodule "Sudoku-Solver"]
+	path = Sudoku-Solver
+	url = git@github.com:AliAkhgari/Sudoku-Solver.git
+[submodule "Checkers-Game-using-Minimax"]
+	path = Checkers-Game-using-Minimax
+	url = git@github.com:AliAkhgari/Checkers-Game-using-Minimax.git
+[submodule "Ad-Categorization-using-Naive-Bayes"]
+	path = Ad-Categorization-using-Naive-Bayes
+	url = git@github.com:AliAkhgari/Ad-Categorization-using-Naive-Bayes.git
+[submodule "Movie-Genre-Classification-using-Decision-Tree"]
+	path = Movie-Genre-Classification-using-Decision-Tree
+	url = git@github.com:AliAkhgari/Movie-Genre-Classification-using-Decision-Tree.git
+[submodule "Image-Classification-using-Feed-Forward-Neural-Network"]
+	path = Image-Classification-using-Feed-Forward-Neural-Network
+	url = git@github.com:AliAkhgari/Image-Classification-using-Feed-Forward-Neural-Network.git
