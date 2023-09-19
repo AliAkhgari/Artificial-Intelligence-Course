@@ -13,3 +13,6 @@
 [submodule "Image-Classification-using-Feed-Forward-Neural-Network"]
 	path = Image-Classification-using-Feed-Forward-Neural-Network
 	url = git@github.com:AliAkhgari/Image-Classification-using-Feed-Forward-Neural-Network.git
+[submodule "AI-Search-Algorithms"]
+	path = AI-Search-Algorithms
+	url = git@github.com:AliAkhgari/AI-Search-Algorithms.git
