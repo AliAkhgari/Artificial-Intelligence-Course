@@ -1,6 +1,3 @@
-[submodule "git@github.com:AliAkhgari/Artificial-Intelligence-Course.git"]
-	path = git@github.com:AliAkhgari/Artificial-Intelligence-Course.git
-	url = git@github.com:AliAkhgari/AI-Search-Algorithms.git
 [submodule "Sudoku-Solver"]
 	path = Sudoku-Solver
 	url = git@github.com:AliAkhgari/Sudoku-Solver.git
